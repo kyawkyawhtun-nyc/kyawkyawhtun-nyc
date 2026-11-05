@@ -10,7 +10,7 @@ Google Data Analytics Certified. I turn messy operational data into clear answer
 
 ## 📂 Portfolio Projects
 
-### 1. [NYC 311 — Damaged Tree Complaints](https://github.com/YOUR-USERNAME/nyc-311-analysis)
+### 1. [NYC 311 — Damaged Tree Complaints](https://github.com/kyawkyawhtun-nyc/nyc-311-analysis)
 Which ZIP codes wait longest for tree-damage service — and are the worst hotspots the same every year?
 - Analyzed 3.4M+ service requests (2024) via the NYC Open Data API, and 2021 records in BigQuery SQL
 - **Finding:** the worst ZIP in 3 of 5 boroughs was identical in 2021 and 2024 — tree-damage hotspots are *sticky*
